@@ -1,0 +1,10 @@
+name: quantum
+dependencies:
+- python=3.7
+- pip
+- matplotlib
+- notebook
+- ipywidgets
+- rise
+- pip:
+  - qiskit
