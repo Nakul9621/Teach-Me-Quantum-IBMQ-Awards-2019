@@ -15,5 +15,7 @@ Update-1: Our team won second prize in the IBMQ 2019 Teach Me Quantum Awards wit
 
 IBMQ Blog Post: https://www.ibm.com/blogs/research/2020/03/2019-ibmq-awards/
 
+Update-2: I made a ppt for why should one study quantum computing in January which I have added here. Please go through this file first as it covers the basics of quantum computing in layman terms, various schools of thought in quantum physics with focus on Copenhagen interpretation, quantum magic, applications in chemistry, biochemistry, physics, mathematics, cyrptography, finance etc. and the future of quantum computing with an additional knowledge of who are the competitors in this quantum race. 
+
 
 Submission made by Nakul Aggarwal, Tharrmashastha SAPV, Sagnik Chatterjee and Pravek Sharma
