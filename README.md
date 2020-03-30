@@ -11,7 +11,7 @@ can skip the week on quantum hardware.
 
 My contributions: I specifically made course material with coding exercises and solutions in quantum variational methods like VQE, QAOA; Quantum machine learning protocols and quantum hardware. For any mistakes/errors in the course content, do report. Latex files will also soon be added for ease of editing by users. I will be including more content in the future. A video lecture series for UG and PG Quantum Computing with implementation is on the way. The link will be added here. 
 
-Update: Our team won second prize in the IBMQ 2019 Teach Me Quantum Awards with a cash prize of $4000
+Update-1: Our team won second prize in the IBMQ 2019 Teach Me Quantum Awards with a cash prize of $4000
 
 IBMQ Blog Post: https://www.ibm.com/blogs/research/2020/03/2019-ibmq-awards/
 
