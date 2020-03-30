@@ -1,5 +1,7 @@
 # Teach Me Quantum
 This lecture series was prepared for submission in the competition, IBMQ Awards - Teach Me Quantum 2019. 
+
+Introduction:
 This is a designated 11-week course covering concepts in quantum physics, quantum chemistry, mathematics, computer science NP-hard problems, 
 cryptography, ensemble based learning and much more. This is the first holistic course ever designed in Quantum Computing. 
 This course is prepared for people from backgrounds in physics, mathematics, chemistry and computer science. 
