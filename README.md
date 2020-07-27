@@ -1,7 +1,7 @@
 # Teach Me Quantum
 This lecture series was prepared for submission in the competition, IBMQ Awards - Teach Me Quantum 2019.
 
-Our team won second prize in the IBMQ 2019 Teach Me Quantum Awards with a cash prize of $4000
+This entry won the second prize in the IBMQ 2019 Teach Me Quantum Awards with a cash prize of $4000
 
 IBMQ Blog Post: https://www.ibm.com/blogs/research/2020/03/2019-ibmq-awards/
 
